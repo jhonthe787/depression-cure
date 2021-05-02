@@ -145,7 +145,7 @@ color:#111010;
 		opacity: 0;
 	}
 	.landing{
-		height: 85vh;
+		height: 95vh;
 	}
 	
 	 #home{
@@ -213,7 +213,7 @@ margin-left: -12.5%;
 color: black;}
  .landing{
 	 /* background-color: #942043; */
-	 height: 80vh;
+	 height: 85vh;
 	 padding:0px;
 
 	 margin: 0px 20px;
@@ -232,7 +232,6 @@ color: white;}
 
 .intro-content {
 margin: 0%;
-
 font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: 30px;
 text-align: center;
@@ -252,12 +251,10 @@ display: flex;
 
 border-top: 2px solid white;
 border-bottom: 2px solid white;
-margin: auto;
-
 	text-align: left;
 	font-size: 6vh;
 	/* padding-left: 10px; */
-	/* padding: 15px 0px; */
+	padding: 15px 0px;
 	font-weight: 600;
 	color:white;
 text-align: center;
@@ -299,7 +296,6 @@ text-align: center;
 	transition: 0.3s;
 }
  */
-
 
 
 
