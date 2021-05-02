@@ -144,6 +144,9 @@ color:#111010;
 	nav :checked ~ .icon-burger .line:nth-child(2) {
 		opacity: 0;
 	}
+	.landing{
+		height: 85vh;
+	}
 	
 	 #home{
 	 margin-left: 5%;
@@ -210,7 +213,7 @@ margin-left: -12.5%;
 color: black;}
  .landing{
 	 /* background-color: #942043; */
-	 height: 100vh;
+	 height: 80vh;
 	 padding:0px;
 
 	 margin: 0px 20px;
@@ -221,12 +224,6 @@ color: black;}
  }
 
 
- .intro{
- /* background-color: aqua; */
- height: 100vh;
-display:flex;
-flex-direction: column;
-}
 
 p::selection{
 background-color: rgb(161, 211, 24);
@@ -235,6 +232,7 @@ color: white;}
 
 .intro-content {
 margin: 0%;
+
 font-family: Georgia, 'Times New Roman', Times, serif;
 font-size: 30px;
 text-align: center;
@@ -251,13 +249,15 @@ display: flex;
 
 
 .quote-heading{
+
 border-top: 2px solid white;
 border-bottom: 2px solid white;
-margin: 0%;
+margin: auto;
+
 	text-align: left;
 	font-size: 6vh;
 	/* padding-left: 10px; */
-	padding: 15px 0px;
+	/* padding: 15px 0px; */
 	font-weight: 600;
 	color:white;
 text-align: center;
@@ -302,9 +302,7 @@ text-align: center;
 
 
 
-.contact-us{
-/* background-color:rgb(140, 172, 70); */
-}
+
 
 .contact-us p {
 margin-top: -5%;
